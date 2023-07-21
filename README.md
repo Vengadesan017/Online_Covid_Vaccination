@@ -25,3 +25,15 @@ Both the User and Admin have same login page for login the Covid vaccination boo
 ●     Get dosage details (group by centres)
 
 ●     Remove vaccination centres
+# Initial login 
+For Admin page:-
+
+    username: admin
+    password: admin 
+
+
+
+For User page:-
+
+    username: user
+    password: user
